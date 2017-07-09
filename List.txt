@@ -1,3 +1,9 @@
 Hello World!
 
 Topics:
+Robotics
+  Kinematics and dynamics
+  Control
+  Path planning
+Computer vision
+Machine intelligence
